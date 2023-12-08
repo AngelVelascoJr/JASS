@@ -19,7 +19,17 @@ Se busca desarollar un videojuego que rete a la gente, sea entretenido e interes
 
 Para el desarollo del proyecto, se plantearon distintas aproximaciones para el diseño del sistema de el juego, dentro de estas se planteaban cuestiones como la dificultad del juego, la tematica de este, y aunque se debieron dejar muchas cosas fuera del desarrollo por cuestiones de tiempo y personal, se lograron desarollar la mayoria de las tematicas que se decidieron para esto, ejemplos de estos son:
 
-* 
+* el desarollo de musica que le de energia al juego:
+
+* el desarollo de inteligencias artificiales enemigas:
+
+* el desarollo de diversos ataques
+
+* el desarollo de sistemas de movimiento complejos
+
+* el desarollo de efectos visuales apelantes
+
+* y muchas mas.
 
 Además, adjuntar al menos cinco imágenes que muestran el proceso de trabajo, junto con su correspondiente descripción del proyecto.
 
