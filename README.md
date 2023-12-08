@@ -26,6 +26,7 @@ Para el desarollo del proyecto, se plantearon distintas aproximaciones para el d
 * el desarollo de diversos ataques
 
 * el desarollo de sistemas de movimiento complejos
+![image](https://github.com/AngelVelascoJr/JASS/assets/80130331/c8bd23c0-6391-49b0-92b5-22eb1afd7b6f)
 
 * el desarollo de efectos visuales apelantes
 
