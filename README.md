@@ -1,2 +1,2 @@
-# JASS
- 
+# JASS (Just Another Space Shooter)
+
