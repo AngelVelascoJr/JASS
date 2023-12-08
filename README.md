@@ -25,4 +25,6 @@ Además, adjuntar al menos cinco imágenes que muestran el proceso de trabajo, j
 
 ## **Conclusión:** 
 
+* Angel: de manera personal, este proyecto me permitio ampliar mis conocimientos de UNITY, C#, , github y otros, ademas de que me dio la oportunidad de trabajar en equipo para desarollar un videojuego en compañia de compañeros y amigos.
+
 Para finalizar, cada miembro del equipo presentará una conclusión que resumirá los logros y aprendizajes obtenidos durante el desarrollo de este proyecto.
