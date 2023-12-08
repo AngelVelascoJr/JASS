@@ -5,7 +5,7 @@
 **integrantes:**
 
 * Velasco Perez Angel David - Coder
-* Evander Zarco - Musico
+* Zarco Hernández Evandher Joel - Musico
 
 **Semestre:** 2024-1
 
@@ -17,7 +17,9 @@ Se busca desarollar un videojuego que rete a la gente, sea entretenido e interes
 
 ## **Descripción del proyecto:**
 
+Para el desarollo del proyecto, se plantearon distintas aproximaciones para el diseño del sistema de el juego, dentro de estas se planteaban cuestiones como la dificultad del juego, la tematica de este, y aunque se debieron dejar muchas cosas fuera del desarrollo por cuestiones de tiempo y personal, se lograron desarollar la mayoria de las tematicas que se decidieron para esto, ejemplos de estos son:
 
+* 
 
 Además, adjuntar al menos cinco imágenes que muestran el proceso de trabajo, junto con su correspondiente descripción del proyecto.
 
