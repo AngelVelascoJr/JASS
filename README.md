@@ -23,16 +23,21 @@ Para el desarollo del proyecto, se plantearon distintas aproximaciones para el d
 
 * el desarollo de inteligencias artificiales enemigas:
 
+![image](https://github.com/AngelVelascoJr/JASS/assets/80130331/720cd388-305d-4f33-97c9-1606fb4743a3)
+
 * el desarollo de diversos ataques
 
+![image](https://github.com/AngelVelascoJr/JASS/assets/80130331/53b381f9-06a5-4273-a2e1-e166b6fac239)
+
 * el desarollo de sistemas de movimiento complejos
+
 ![image](https://github.com/AngelVelascoJr/JASS/assets/80130331/c8bd23c0-6391-49b0-92b5-22eb1afd7b6f)
 
 * el desarollo de efectos visuales apelantes
 
-* y muchas mas.
+![image](https://github.com/AngelVelascoJr/JASS/assets/80130331/5efddbe1-a804-4ecd-8f0c-4dc6267d08c5)
 
-Además, adjuntar al menos cinco imágenes que muestran el proceso de trabajo, junto con su correspondiente descripción del proyecto.
+* y muchas mas.
 
 ## **Conclusión:** 
 
