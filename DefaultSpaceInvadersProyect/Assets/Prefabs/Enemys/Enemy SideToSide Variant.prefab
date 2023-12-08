@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7618327242485937587
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2166817669915341736, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_Color.b
+      value: 0.10283661
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401440, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_Name
+      value: Enemy SideToSide Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401440, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401443, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: Col
+      value: 
+      objectReference: {fileID: 6042133289000225300}
+    - target: {fileID: 2166817669916401443, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: Score
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401443, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: patern
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401443, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: MaxHealth
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401443, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: <ShootControllerProperty>k__BackingField.ShootProb
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401443, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: <ShootControllerProperty>k__BackingField.BulletDamage
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401445, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401445, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401445, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401445, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401445, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401445, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401445, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401445, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401445, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401445, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166817669916401445, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+--- !u!65 &6042133289000225300 stripped
+BoxCollider:
+  m_CorrespondingSourceObject: {fileID: 4206437324879691687, guid: a1aba4f1e41de274d98ef3bc7791364d, type: 3}
+  m_PrefabInstance: {fileID: 7618327242485937587}
+  m_PrefabAsset: {fileID: 0}
