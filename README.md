@@ -43,6 +43,7 @@ Para el desarollo del proyecto, se plantearon distintas aproximaciones para el d
 
 ## **Conclusión:** 
 
-* Angel: de manera personal, este proyecto me permitio ampliar mis conocimientos de UNITY, C#, , github y otros, ademas de que me dio la oportunidad de trabajar en equipo para desarollar un videojuego en compañia de compañeros y amigos.
+* Angel: De manera personal, este proyecto me permitio ampliar mis conocimientos de UNITY, C#, , github y otros, ademas de que me dio la oportunidad de trabajar en equipo para desarollar un videojuego en compañia de compañeros y amigos.
+* Evandher: Este proyecto fue algo emocionante. Cómo músico fue una grata experiencia poder componer música para un videojuego. Considero que mi nivel cómo músico no es muy bueno, sin embargo, hice mi mayor esfuerzo y me divertí bastante componiendo para este proyecto uwu
 
 Para finalizar, cada miembro del equipo presentará una conclusión que resumirá los logros y aprendizajes obtenidos durante el desarrollo de este proyecto.
