@@ -23,7 +23,7 @@ Para el desarollo del proyecto, se plantearon distintas aproximaciones para el d
 
 ![image](https://github.com/AngelVelascoJr/JASS/assets/80130331/713c7f01-d4f5-4b04-9a50-3a0dfb3af5f8)
 
-* el desarollo de inteligencias artificiales enemigas:
+* el desarollo de inteligencias artificiales enemigas (cada color tiene una distinta, aunque parescan las mismas):
 
 ![image](https://github.com/AngelVelascoJr/JASS/assets/80130331/720cd388-305d-4f33-97c9-1606fb4743a3)
 
