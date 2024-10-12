@@ -19,10 +19,6 @@ Se busca desarollar un videojuego que rete a la gente, sea entretenido e interes
 
 Para el desarollo del proyecto, se plantearon distintas aproximaciones para el diseño del sistema de el juego, dentro de estas se planteaban cuestiones como la dificultad del juego, la tematica de este, y aunque se debieron dejar muchas cosas fuera del desarrollo por cuestiones de tiempo y personal, se lograron desarollar la mayoria de las tematicas que se decidieron para esto, ejemplos de estos son:
 
-* el desarollo de musica que le de energia al juego:
-
-![image](https://github.com/AngelVelascoJr/JASS/assets/80130331/713c7f01-d4f5-4b04-9a50-3a0dfb3af5f8)
-
 * el desarollo de inteligencias artificiales enemigas (cada color tiene una distinta, aunque parescan las mismas):
 
 ![image](https://github.com/AngelVelascoJr/JASS/assets/80130331/720cd388-305d-4f33-97c9-1606fb4743a3)
@@ -38,6 +34,10 @@ Para el desarollo del proyecto, se plantearon distintas aproximaciones para el d
 * el desarollo de efectos visuales apelantes
 
 ![image](https://github.com/AngelVelascoJr/JASS/assets/80130331/5efddbe1-a804-4ecd-8f0c-4dc6267d08c5)
+
+* el desarollo de musica que le de energia al juego:
+
+![image](https://github.com/AngelVelascoJr/JASS/assets/80130331/713c7f01-d4f5-4b04-9a50-3a0dfb3af5f8)
 
 * y muchas mas.
 
