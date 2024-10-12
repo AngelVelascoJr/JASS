@@ -36,7 +36,7 @@ public class EnemyScript : MonoBehaviour, IDamageable
     public event EventHandler OnEnemyDieEvent;
 
     /// <summary>
-    /// De position where they beguin to attack
+    /// The position where they beguin to attack
     /// </summary>
     public Vector3 Zero = new Vector3();
     /// <summary>
@@ -188,22 +188,6 @@ public class EnemyScript : MonoBehaviour, IDamageable
         {
             Col.enabled = true;
         }
-            //for (int i = 0; i < numPoints; i++)
-        //{
-        //    float angle = i * Mathf.PI * 2 * scaleFactor;
-        //    float x = Mathf.Cos(angle) * i * scaleFactor;
-        //    float y = Mathf.Sin(angle) * i * scaleFactor;
-        //    Vector3 targetPosition = new Vector3(x, 0, y);
-
-        //    while (Vector3.Distance(transform.position, targetPosition) > 0.01f)
-        //    {
-        //        transform.position = Vector3.MoveTowards(transform.position, targetPosition, Time.deltaTime * speed);
-        //        yield return null;
-        //    }
-
-        //    // Pausa opcional entre puntos
-        //    yield return new WaitForSeconds(0.5f);
-        //}
     }
 
     public HealthClass GetHealthClass()
